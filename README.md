@@ -51,6 +51,7 @@ All necessary course materials, Solidity tools, and resources are provided throu
 - Bemnet Esayas
 - Yosphe Samuel
 - Nafis Seifu
+  
 **Note:** Each student contributes using their own branch. The main branch is for Natnael Tesfahun.
 ## License
 
